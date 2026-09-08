@@ -1,0 +1,2 @@
+ Campus Emergency Coordinator
+ A command-line emergency management application built with Node.js that centralizes campus emergency reporting, contact lookup, incident tracking, and alert broadcasting for college safety personnel.
